@@ -1,1 +1,1 @@
-linuxserver/jackett
+--platform=linux/arm64 linuxserver/jackett
