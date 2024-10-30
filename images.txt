@@ -1,2 +1,3 @@
 #--platform=linux/arm64 linuxserver/jackett
---platform=linux/arm64  nastools/nas-tools 
+#--platform=linux/arm64  nastools/nas-tools 
+--platform=linux/arm64   dysf888/nas-tools:latest
